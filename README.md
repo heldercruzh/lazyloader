@@ -5,9 +5,8 @@ Basic structure of an angular project with single page application and lazy load
 ## Struture:
 
   - AppModeule
-  --- Header
-  --- Home
-  ------ FistPage
-  --- Footer
-  
+    - Header
+    - Home
+      - FistPage
+    - Footer
   
